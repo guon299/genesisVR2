@@ -1,0 +1,23 @@
+컨텐츠 = 컨테이너 너비
+너비 1623
+
+
+1623 =  왼쪽로고공간 198 + 1425
+
+박스당 기본 간격
+여백 40
+
+박스하나당 넓이
+패딩80  박스448.328
+
+컨텐츠 박스너비 488.328 *10
+
+&:hover {
+                                                    filter: brightness(1.5);
+                                                    background-color: #333;
+                                                    .bottom {
+                                                        button{
+                                                            transform:  translateY(1.5);
+                                                        }
+                                                    }
+                                                }
